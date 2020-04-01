@@ -1,0 +1,16 @@
+.mymodal {
+  display:none;
+  position:fixed;
+  height: 320px;
+  background-color: antiquewhite;
+  top: 10px;
+  left: 100px;
+  opacity: 80%;
+  
+}
+
+.mymodal button{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
